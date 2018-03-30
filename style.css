@@ -1,0 +1,60 @@
+body {
+    margin: 0 40px;
+    width: 900px;
+    padding-bottom: 50px;
+    font-family: "Avenir";
+    background: #f9f4f2; 
+}
+h1 {
+    font-family: "Impact";
+    font-size: 75px;
+    color: #42210b;
+
+}
+div.section-description {
+    position: absolute;
+    width: 280px;
+    left: 980px;
+}
+span.impt-numbers {
+    font-size:24px;
+    font-weight:bold;
+}
+span.bar-rating-legend {
+    font-size: 24px;
+    display: inline-block;
+    width: 50px;
+    vertical-align: middle;
+}
+span.bar-rating-legend-description {
+    display: inline-block;
+    width: 220px;
+    font-size: 14px;
+    vertical-align: middle;
+}
+.map-legend .map-legend-scale ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.map-legend .map-legend-scale ul li {
+    float: left;
+    width: 78px;
+    text-align: right;
+    font-size: 14px;
+}
+.map-legend ul.map-legend-labels li span.map-color-scale {
+    outline-style: solid;
+    outline-width: 1px;
+    display: block;
+    float: left;
+    height: 15px;
+    width: 78px;
+}
+.size-legend svg text {
+    font-size: 14px;
+}
+footer p {
+    font-size: 14px;
+    margin: 5px 0;
+}
