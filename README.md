@@ -22,5 +22,5 @@ Created by Song Tang (st883), Stella Huang (sh2425), Yong Lin Ong (yo228)
 
 
 ## Visualizaiton
-
+![temperature data plot d3 js](https://raw.githubusercontent.com/Santostang/D3-Data-Visualization-Chocolate-Bar-Analysis/master/chocolate%20plot.png)
 
